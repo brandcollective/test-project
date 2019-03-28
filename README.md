@@ -1,9 +1,9 @@
 # Test Vue/Express/Mocha Project
 
-[Nuxt.js - Vue Framework :](https://nuxtjs.org/guide/directory-structure)  
-[Express.js :](https://expressjs.com/en/4x/api.html)  
-[Reqres - Dummy API :](https://reqres.in/)  
-[Mocha :](https://mochajs.org/)
+[Nuxt.js - Vue Framework](https://nuxtjs.org/guide/directory-structure)  
+[Express.js](https://expressjs.com/en/4x/api.html)  
+[Reqres - Dummy API](https://reqres.in/)  
+[Mocha](https://mochajs.org/)
 
 ## Task
 
