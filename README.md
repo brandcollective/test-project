@@ -14,7 +14,7 @@ Clone this repository and extend the application by completing the following tas
 >1) Add a Vue component into index.vue to display an unordered list of user records
 >
 >- Display a list of users returned (three users at a time)  
->```https://reqres.in/api/users/api/users```  
+>```https://reqres.in/api/users```  
 >
 >- Include buttons for showing the next three users, and the previous three users  
 >
@@ -25,7 +25,7 @@ Clone this repository and extend the application by completing the following tas
 >- Create a form that accepts 'email' and 'password'  
 >
 >- Add the submit button and display a prompt if submission completes successfully  
->```https://reqres.in/api/users/api/register```  
+>```https://reqres.in/api/register```  
 >
 >3) Add a unit test with Mocha to check the get `/api/users` is retrieving the expected data, an array with a length of three
 >
